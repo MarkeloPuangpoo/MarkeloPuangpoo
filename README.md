@@ -30,10 +30,3 @@ Also built **MediBox**, a smart pill box for elderly people: ESP32 hardware plus
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,fastapi,supabase,postgres,docker,git,figma&perline=13" alt="Tech stack" height="36">
-
-<br>
-<br>
-
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkeloPuangpoo&bg_color=00000000&color=8b949e&title_color=8b949e&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true&hide_title=true" alt="Contribution graph" width="100%">
